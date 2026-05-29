@@ -1,0 +1,11 @@
+{
+  "prefix": ".",
+  "welcome_channel": "welcome",
+  "goodbye_channel": "goodbye",
+  "mod_log_channel": "mod-logs",
+  "auto_role": "Member",
+  "ticket_logs": "ticket-logs",
+  "admin_roles": ["👑 Owner", "⚡ Co-Owner", "🛡 Staff"],
+  "owner_id": "1406960430554812508",
+  "security_logs": "security-logs"
+}
