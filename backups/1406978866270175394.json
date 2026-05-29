@@ -1,0 +1,123 @@
+{
+    "name": "Desi_noob",
+    "roles": [
+        {
+            "name": "@everyone",
+            "permissions": 2248473465835073
+        },
+        {
+            "name": "UNITED GEN",
+            "permissions": 0
+        },
+        {
+            "name": "Member",
+            "permissions": 0
+        },
+        {
+            "name": "new role",
+            "permissions": 0
+        },
+        {
+            "name": "new role",
+            "permissions": 0
+        },
+        {
+            "name": "EnderMC OFFICIAL",
+            "permissions": 0
+        },
+        {
+            "name": "Koko",
+            "permissions": 2252126499727376
+        },
+        {
+            "name": "MEE6",
+            "permissions": 0
+        },
+        {
+            "name": "study",
+            "permissions": 0
+        },
+        {
+            "name": "Gen Staff",
+            "permissions": 0
+        },
+        {
+            "name": "Verified",
+            "permissions": 0
+        },
+        {
+            "name": "admin",
+            "permissions": 0
+        },
+        {
+            "name": "owner",
+            "permissions": 805315601
+        },
+        {
+            "name": "SkyGlacier Bot",
+            "permissions": 8864258447638527
+        }
+    ],
+    "channels": [
+        {
+            "name": "Text Channels",
+            "type": "category"
+        },
+        {
+            "name": "Voice Channels",
+            "type": "category"
+        },
+        {
+            "name": "study",
+            "type": "text"
+        },
+        {
+            "name": "bot-vouch",
+            "type": "text"
+        },
+        {
+            "name": "welcome",
+            "type": "text"
+        },
+        {
+            "name": "logs",
+            "type": "text"
+        },
+        {
+            "name": "announcements",
+            "type": "text"
+        },
+        {
+            "name": "tickets",
+            "type": "text"
+        },
+        {
+            "name": "testkar",
+            "type": "text"
+        },
+        {
+            "name": "ticket-desi_noob",
+            "type": "text"
+        },
+        {
+            "name": "ticket-desi_noob",
+            "type": "text"
+        },
+        {
+            "name": "vc",
+            "type": "voice"
+        },
+        {
+            "name": "ticket-desi_noob",
+            "type": "text"
+        }
+    ],
+    "categories": [
+        {
+            "name": "Text Channels"
+        },
+        {
+            "name": "Voice Channels"
+        }
+    ]
+}
