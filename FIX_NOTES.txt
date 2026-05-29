@@ -1,0 +1,5 @@
+Updated Bot Fixes:
+- Fixed remote_announcements.py syntax error
+- Removed broken line from music.py
+- Added requirements.txt
+- Bot still needs additional missing commands implemented manually
